@@ -8,6 +8,7 @@ public class LoginPage {
 	WebDriver driver;
 	public LoginPage(WebDriver ldriver)
 	{
+		//we can write it into two ways.
 		this.driver =ldriver;
 	}
 	
